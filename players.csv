@@ -1,0 +1,498 @@
+,Name,Position,Age,Contract End,Market Value ($),Team
+0,Thibaut Courtois,Goalkeeper,30,"Jun 30, 2026",66000000.0,Real Madrid
+1,Andriy Lunin,Goalkeeper,23,"Jun 30, 2024",2750000.0,Real Madrid
+2,Éder Militão,Centre-Back,24,"Jun 30, 2025",66000000.0,Real Madrid
+3,David Alaba,Centre-Back,30,"Jun 30, 2026",60500000.0,Real Madrid
+4,Antonio Rüdiger,Centre-Back,29,"Jun 30, 2026",44000000.0,Real Madrid
+5,Nacho Fernández,Centre-Back,32,"Jun 30, 2023",7700000.0,Real Madrid
+6,Jesús Vallejo,Centre-Back,25,"Jun 30, 2025",3300000.0,Real Madrid
+7,Ferland Mendy,Left-Back,27,"Jun 30, 2025",44000000.0,Real Madrid
+8,Daniel Carvajal,Right-Back,30,"Jun 30, 2025",19800000.0,Real Madrid
+9,Álvaro Odriozola,Right-Back,26,"Jun 30, 2024",11000000.0,Real Madrid
+10,Aurélien Tchouameni,Defensive Midfield,22,"Jun 30, 2028",88000000.0,Real Madrid
+11,Federico Valverde,Central Midfield,24,"Jun 30, 2027",88000000.0,Real Madrid
+12,Eduardo Camavinga,Central Midfield,19,"Jun 30, 2027",60500000.0,Real Madrid
+13,Toni Kroos,Central Midfield,32,"Jun 30, 2023",22000000.0,Real Madrid
+14,Dani Ceballos,Central Midfield,26,"Jun 30, 2023",15400000.0,Real Madrid
+15,Luka Modric,Central Midfield,37,"Jun 30, 2023",11000000.0,Real Madrid
+16,Vinicius Junior,Left Winger,22,"Jun 30, 2024",132000000.0,Real Madrid
+17,Eden Hazard,Left Winger,31,"Jun 30, 2024",13200000.0,Real Madrid
+18,Rodrygo,Right Winger,21,"Jun 30, 2025",77000000.0,Real Madrid
+19,Marco Asensio,Right Winger,26,"Jun 30, 2023",38500000.0,Real Madrid
+20,Lucas Vázquez,Right Winger,31,"Jun 30, 2024",13200000.0,Real Madrid
+21,Karim Benzema,Centre-Forward,34,"Jun 30, 2023",33000000.0,Real Madrid
+22,Mariano Díaz,Centre-Forward,29,"Jun 30, 2023",4400000.0,Real Madrid
+23,Marc-André ter Stegen,Goalkeeper,30,"Jun 30, 2025",33000000.0,FC Barcelona
+24,Iñaki Peña,Goalkeeper,23,"Jun 30, 2023",4620000.0,FC Barcelona
+25,Arnau Tenas,Goalkeeper,21,"Jun 30, 2023",1650000.0,FC Barcelona
+26,Ronald Araújo,Centre-Back,23,"Jun 30, 2026",66000000.0,FC Barcelona
+27,Jules Koundé,Centre-Back,23,"Jun 30, 2027",66000000.0,FC Barcelona
+28,Andreas Christensen,Centre-Back,26,"Jun 30, 2026",38500000.0,FC Barcelona
+29,Eric García,Centre-Back,21,"Jun 30, 2026",19800000.0,FC Barcelona
+30,Gerard Piqué,Centre-Back,35,"Jun 30, 2024",3300000.0,FC Barcelona
+31,Marcos Alonso,Left-Back,31,"Jun 30, 2023",13200000.0,FC Barcelona
+32,Jordi Alba,Left-Back,33,"Jun 30, 2024",9900000.0,FC Barcelona
+33,Alejandro Balde,Left-Back,19,"Jun 30, 2024",8800000.0,FC Barcelona
+34,Héctor Bellerín,Right-Back,27,"Jun 30, 2023",22000000.0,FC Barcelona
+35,Sergi Roberto,Right-Back,30,"Jun 30, 2023",6600000.0,FC Barcelona
+36,Sergio Busquets,Defensive Midfield,34,"Jun 30, 2023",9900000.0,FC Barcelona
+37,Pedri,Central Midfield,19,"Jun 30, 2026",99000000.0,FC Barcelona
+38,Gavi,Central Midfield,18,"Jun 30, 2026",77000000.0,FC Barcelona
+39,Frenkie de Jong,Central Midfield,25,"Jun 30, 2026",66000000.0,FC Barcelona
+40,Franck Kessié,Central Midfield,25,"Jun 30, 2026",49500000.0,FC Barcelona
+41,Pablo Torre,Attacking Midfield,19,"Jun 30, 2026",3300000.0,FC Barcelona
+42,Ansu Fati,Left Winger,20,"Jun 30, 2027",66000000.0,FC Barcelona
+43,Ferran Torres,Left Winger,22,"Jun 30, 2027",44000000.0,FC Barcelona
+44,Ousmane Dembélé,Right Winger,25,"Jun 30, 2024",55000000.0,FC Barcelona
+45,Raphinha,Right Winger,25,"Jun 30, 2027",55000000.0,FC Barcelona
+46,Robert Lewandowski,Centre-Forward,34,"Jun 30, 2026",49500000.0,FC Barcelona
+47,Memphis Depay,Centre-Forward,28,"Jun 30, 2023",27500000.0,FC Barcelona
+48,Jan Oblak,Goalkeeper,29,"Jun 30, 2028",44000000.0,Atlético de Madrid
+49,Ivo Grbic,Goalkeeper,26,"Jun 30, 2024",3850000.0,Atlético de Madrid
+50,José María Giménez,Centre-Back,27,"Jun 30, 2025",49500000.0,Atlético de Madrid
+51,Mario Hermoso,Centre-Back,27,"Jun 30, 2024",19800000.0,Atlético de Madrid
+52,Stefan Savic,Centre-Back,31,"Jun 30, 2024",15400000.0,Atlético de Madrid
+53,Felipe,Centre-Back,33,"Jun 30, 2023",6600000.0,Atlético de Madrid
+54,Sergio Reguilón,Left-Back,25,"Jun 30, 2023",27500000.0,Atlético de Madrid
+55,Reinildo Mandava,Left-Back,28,"Jun 30, 2025",27500000.0,Atlético de Madrid
+56,Nahuel Molina,Right-Back,24,"Jun 30, 2027",22000000.0,Atlético de Madrid
+57,Geoffrey Kondogbia,Defensive Midfield,29,"Jun 30, 2024",22000000.0,Atlético de Madrid
+58,Axel Witsel,Defensive Midfield,33,"Jun 30, 2023",5500000.0,Atlético de Madrid
+59,Marcos Llorente,Central Midfield,27,"Jun 30, 2027",44000000.0,Atlético de Madrid
+60,Rodrigo de Paul,Central Midfield,28,"Jun 30, 2026",38500000.0,Atlético de Madrid
+61,Koke,Central Midfield,30,"Jun 30, 2024",22000000.0,Atlético de Madrid
+62,Saúl Ñíguez,Central Midfield,27,"Jun 30, 2026",22000000.0,Atlético de Madrid
+63,Thomas Lemar,Attacking Midfield,26,"Jun 30, 2023",38500000.0,Atlético de Madrid
+64,Yannick Carrasco,Left Winger,29,"Jun 30, 2024",44000000.0,Atlético de Madrid
+65,Ángel Correa,Right Winger,27,"Jun 30, 2026",44000000.0,Atlético de Madrid
+66,João Félix,Second Striker,22,"Jun 30, 2026",77000000.0,Atlético de Madrid
+67,Antoine Griezmann,Second Striker,31,"Jun 30, 2023",38500000.0,Atlético de Madrid
+68,Matheus Cunha,Centre-Forward,23,"Jun 30, 2026",33000000.0,Atlético de Madrid
+69,Álvaro Morata,Centre-Forward,30,"Jun 30, 2024",27500000.0,Atlético de Madrid
+70,Álex Remiro,Goalkeeper,27,"Jun 30, 2027",24200000.0,Real Sociedad
+71,Andoni Zubiaurre,Goalkeeper,25,"Jun 30, 2024",330000.0,Real Sociedad
+72,Robin Le Normand,Centre-Back,25,"Jun 30, 2026",38500000.0,Real Sociedad
+73,Aritz Elustondo,Centre-Back,28,"Jun 30, 2024",22000000.0,Real Sociedad
+74,Igor Zubeldia,Centre-Back,25,"Jun 30, 2024",16500000.0,Real Sociedad
+75,Jon Pacheco,Centre-Back,21,"Jun 30, 2027",1100000.0,Real Sociedad
+76,Aihen Muñoz,Left-Back,25,"Jun 30, 2024",6600000.0,Real Sociedad
+77,Diego Rico,Left-Back,29,"Jun 30, 2023",3300000.0,Real Sociedad
+78,Andoni Gorosabel,Right-Back,26,"Jun 30, 2024",11000000.0,Real Sociedad
+79,Álex Sola,Right-Back,23,"Jun 30, 2026",1650000.0,Real Sociedad
+80,Martín Zubimendi,Defensive Midfield,23,"Jun 30, 2027",38500000.0,Real Sociedad
+81,Asier Illarramendi,Defensive Midfield,32,"Jun 30, 2023",3300000.0,Real Sociedad
+82,Mikel Merino,Central Midfield,26,"Jun 30, 2025",55000000.0,Real Sociedad
+83,Brais Méndez,Central Midfield,25,"Jun 30, 2028",24200000.0,Real Sociedad
+84,Ander Guevara,Central Midfield,25,"Jun 30, 2024",5500000.0,Real Sociedad
+85,Beñat Turrientes,Central Midfield,20,"Jun 30, 2027",3300000.0,Real Sociedad
+86,David Silva,Attacking Midfield,36,"Jun 30, 2023",4400000.0,Real Sociedad
+87,Robert Navarro,Attacking Midfield,20,"Jun 30, 2027",3300000.0,Real Sociedad
+88,Mikel Oyarzabal,Left Winger,25,"Jun 30, 2024",66000000.0,Real Sociedad
+89,Ander Barrenetxea,Left Winger,20,"Jun 30, 2027",9900000.0,Real Sociedad
+90,Martín Merquelanz,Left Winger,27,"Jun 30, 2025",1650000.0,Real Sociedad
+91,Takefusa Kubo,Right Winger,21,"Jun 30, 2027",9900000.0,Real Sociedad
+92,Umar Sadiq,Centre-Forward,25,"Jun 30, 2028",19800000.0,Real Sociedad
+93,Momo Cho,Centre-Forward,18,"Jun 30, 2027",16500000.0,Real Sociedad
+94,Alexander Sörloth,Centre-Forward,26,"Jun 30, 2023",11000000.0,Real Sociedad
+95,Carlos Fernández,Centre-Forward,26,"Jun 30, 2026",5500000.0,Real Sociedad
+96,Jon Karrikaburu,Centre-Forward,20,"Jun 30, 2026",5500000.0,Real Sociedad
+97,Gerónimo Rulli,Goalkeeper,30,"Jun 30, 2024",6600000.0,Villarreal CF
+98,Filip Jörgensen,Goalkeeper,20,"Jun 30, 2025",1100000.0,Villarreal CF
+99,Pepe Reina,Goalkeeper,40,"Jun 30, 2023",770000.0,Villarreal CF
+100,Pau Torres,Centre-Back,25,"Jun 30, 2024",55000000.0,Villarreal CF
+101,Jorge Cuenca,Centre-Back,22,"Jun 30, 2025",8800000.0,Villarreal CF
+102,Aïssa Mandi,Centre-Back,31,"Jun 30, 2025",6600000.0,Villarreal CF
+103,Raúl Albiol,Centre-Back,37,"Jun 30, 2023",3300000.0,Villarreal CF
+104,Alfonso Pedraza,Left-Back,26,"Jun 30, 2026",19800000.0,Villarreal CF
+105,Johan Mojica,Left-Back,30,"Jun 30, 2026",5500000.0,Villarreal CF
+106,Alberto Moreno,Left-Back,30,"Jun 30, 2024",5500000.0,Villarreal CF
+107,Juan Foyth,Right-Back,24,"Jun 30, 2026",27500000.0,Villarreal CF
+108,Kiko Femenía,Right-Back,31,"Jun 30, 2025",2750000.0,Villarreal CF
+109,Francis Coquelin,Defensive Midfield,31,"Jun 30, 2024",5500000.0,Villarreal CF
+110,Étienne Capoue,Defensive Midfield,34,"Jun 30, 2024",3300000.0,Villarreal CF
+111,Giovani Lo Celso,Central Midfield,26,"Jun 30, 2023",24200000.0,Villarreal CF
+112,Manu Trigueros,Central Midfield,31,"Jun 30, 2025",13200000.0,Villarreal CF
+113,Dani Parejo,Central Midfield,33,"Jun 30, 2024",9900000.0,Villarreal CF
+114,Manu Morlanes,Central Midfield,23,"Jun 30, 2026",5500000.0,Villarreal CF
+115,Álex Baena,Left Winger,21,"Jun 30, 2025",11000000.0,Villarreal CF
+116,Yéremy Pino,Right Winger,20,"Jun 30, 2027",44000000.0,Villarreal CF
+117,Samuel Chukwueze,Right Winger,23,"Jun 30, 2024",22000000.0,Villarreal CF
+118,Nicolas Jackson,Right Winger,21,"Jun 30, 2023",11000000.0,Villarreal CF
+119,Arnaut Danjuma,Centre-Forward,25,"Jun 30, 2026",55000000.0,Villarreal CF
+120,Gerard Moreno,Centre-Forward,30,"Jun 30, 2027",44000000.0,Villarreal CF
+121,José Luis Morales,Centre-Forward,35,"Jun 30, 2024",4400000.0,Villarreal CF
+122,Bono,Goalkeeper,31,"Jun 30, 2025",19800000.0,Sevilla FC
+123,Marko Dmitrović,Goalkeeper,30,"Jun 30, 2025",5500000.0,Sevilla FC
+124,Marcão,Centre-Back,26,"Jun 30, 2027",15400000.0,Sevilla FC
+125,Tanguy Nianzou,Centre-Back,20,"Jun 30, 2027",9900000.0,Sevilla FC
+126,Karim Rekik,Centre-Back,27,"Jun 30, 2025",5500000.0,Sevilla FC
+127,Alex Telles,Left-Back,29,"Jun 30, 2023",19800000.0,Sevilla FC
+128,Marcos Acuña,Left-Back,31,"Jun 30, 2025",19800000.0,Sevilla FC
+129,Gonzalo Montiel,Right-Back,25,"Jun 30, 2026",15400000.0,Sevilla FC
+130,José Ángel Carmona,Right-Back,20,"Jun 30, 2025",5500000.0,Sevilla FC
+131,Jesús Navas,Right-Back,36,"Jun 30, 2024",3300000.0,Sevilla FC
+132,Nemanja Gudelj,Defensive Midfield,30,"Jun 30, 2023",4400000.0,Sevilla FC
+133,Fernando,Defensive Midfield,35,"Jun 30, 2024",4400000.0,Sevilla FC
+134,Joan Jordán,Central Midfield,28,"Jun 30, 2027",19800000.0,Sevilla FC
+135,Óliver Torres,Central Midfield,27,"Jun 30, 2024",8800000.0,Sevilla FC
+136,Ivan Rakitic,Central Midfield,34,"Jun 30, 2024",7700000.0,Sevilla FC
+137,Thomas Delaney,Central Midfield,31,"Jun 30, 2025",7700000.0,Sevilla FC
+138,Isco,Attacking Midfield,30,"Jun 30, 2024",8250000.0,Sevilla FC
+139,Papu Gómez,Left Winger,34,"Jun 30, 2024",6600000.0,Sevilla FC
+140,Tecatito,Right Winger,29,"Jun 30, 2025",19800000.0,Sevilla FC
+141,Erik Lamela,Right Winger,30,"Jun 30, 2024",17600000.0,Sevilla FC
+142,Suso,Right Winger,28,"Jun 30, 2025",11000000.0,Sevilla FC
+143,Adnan Januzaj,Right Winger,27,"Jun 30, 2026",9900000.0,Sevilla FC
+144,Youssef En-Nesyri,Centre-Forward,25,"Jun 30, 2025",22000000.0,Sevilla FC
+145,Kasper Dolberg,Centre-Forward,25,"Jun 30, 2023",18700000.0,Sevilla FC
+146,Rafa Mir,Centre-Forward,25,"Jun 30, 2027",17600000.0,Sevilla FC
+147,Rui Silva,Goalkeeper,28,"Jun 30, 2026",16500000.0,Real Betis Balompié
+148,Dani Martín,Goalkeeper,24,"Jun 30, 2024",2200000.0,Real Betis Balompié
+149,Claudio Bravo,Goalkeeper,39,"Jun 30, 2023",1100000.0,Real Betis Balompié
+150,Luiz Felipe,Centre-Back,25,"Jun 30, 2027",19800000.0,Real Betis Balompié
+151,Edgar González,Centre-Back,25,"Jun 30, 2025",8800000.0,Real Betis Balompié
+152,Germán Pezzella,Centre-Back,31,"Jun 30, 2025",5500000.0,Real Betis Balompié
+153,Víctor Ruiz,Centre-Back,33,"Jun 30, 2023",1650000.0,Real Betis Balompié
+154,Álex Moreno,Left-Back,29,"Jun 30, 2025",19800000.0,Real Betis Balompié
+155,Juan Miranda,Left-Back,22,"Jun 30, 2024",5500000.0,Real Betis Balompié
+156,Youssouf Sabaly,Right-Back,29,"Jun 30, 2026",3300000.0,Real Betis Balompié
+157,Aitor Ruibal,Right-Back,26,"Jun 30, 2025",3300000.0,Real Betis Balompié
+158,Martín Montoya,Right-Back,31,"Jun 30, 2024",1650000.0,Real Betis Balompié
+159,Guido Rodríguez,Defensive Midfield,28,"Jun 30, 2024",27500000.0,Real Betis Balompié
+160,William Carvalho,Defensive Midfield,30,"Jun 30, 2026",17600000.0,Real Betis Balompié
+161,Paul Akouokou,Defensive Midfield,24,"Jun 30, 2024",4400000.0,Real Betis Balompié
+162,Andrés Guardado,Central Midfield,36,"Jun 30, 2023",1650000.0,Real Betis Balompié
+163,Víctor Camarasa,Central Midfield,28,"Jun 30, 2023",1100000.0,Real Betis Balompié
+164,Nabil Fekir,Attacking Midfield,29,"Jun 30, 2026",44000000.0,Real Betis Balompié
+165,Sergio Canales,Attacking Midfield,31,"Jun 30, 2026",22000000.0,Real Betis Balompié
+166,Rodri Sánchez,Attacking Midfield,22,"Jun 30, 2026",7700000.0,Real Betis Balompié
+167,Juanmi,Left Winger,29,"Jun 30, 2024",16500000.0,Real Betis Balompié
+168,Luiz Henrique,Right Winger,21,"Jun 30, 2028",13200000.0,Real Betis Balompié
+169,Joaquín,Right Winger,41,"Jun 30, 2023",1650000.0,Real Betis Balompié
+170,Borja Iglesias,Centre-Forward,29,"Jun 30, 2026",22000000.0,Real Betis Balompié
+171,Willian José,Centre-Forward,30,"Jun 30, 2026",13200000.0,Real Betis Balompié
+172,Loren Morón,Centre-Forward,28,"Jun 30, 2024",4400000.0,Real Betis Balompié
+173,Giorgi Mamardashvili,Goalkeeper,22,"Jun 30, 2027",22000000.0,Valencia CF
+174,Jaume Doménech,Goalkeeper,31,"Jun 30, 2023",2200000.0,Valencia CF
+175,Iago Herrerín,Goalkeeper,34,"Jun 30, 2023",550000.0,Valencia CF
+176,Cristian Rivero,Goalkeeper,24,"Jun 30, 2024",220000.0,Valencia CF
+177,Mouctar Diakhaby,Centre-Back,25,"Jun 30, 2023",8800000.0,Valencia CF
+178,Gabriel Paulista,Centre-Back,31,"Jun 30, 2024",5500000.0,Valencia CF
+179,Cenk Özkacar,Centre-Back,22,"Jun 30, 2023",2200000.0,Valencia CF
+180,Eray Cömert,Centre-Back,24,"Jun 30, 2026",2200000.0,Valencia CF
+181,Cristhian Mosquera,Centre-Back,18,"Jun 30, 2025",1100000.0,Valencia CF
+182,José Gayà,Left-Back,27,"Jun 30, 2027",38500000.0,Valencia CF
+183,Jesús Vázquez,Left-Back,19,"Jun 30, 2025",5500000.0,Valencia CF
+184,Toni Lato,Left-Back,24,"Jun 30, 2023",2750000.0,Valencia CF
+185,Thierry Correia,Right-Back,23,"Jun 30, 2026",13200000.0,Valencia CF
+186,Dimitri Foulquier,Right-Back,29,"Jun 30, 2025",3300000.0,Valencia CF
+187,Hugo Guillamón,Defensive Midfield,22,"Jun 30, 2026",27500000.0,Valencia CF
+188,Yunus Musah,Central Midfield,19,"Jun 30, 2026",27500000.0,Valencia CF
+189,Nico González,Central Midfield,20,"Jun 30, 2023",22000000.0,Valencia CF
+190,Ilaix Moriba,Central Midfield,19,"Jun 30, 2023",9900000.0,Valencia CF
+191,André Almeida,Central Midfield,22,"Jun 30, 2028",8800000.0,Valencia CF
+192,Justin Kluivert,Left Winger,23,"Jun 30, 2023",16500000.0,Valencia CF
+193,Samuel Lino,Left Winger,22,"Jun 30, 2023",13200000.0,Valencia CF
+194,Samu Castillejo,Right Winger,27,"Jun 30, 2025",6600000.0,Valencia CF
+195,Hugo Duro,Centre-Forward,22,"Jun 30, 2026",11000000.0,Valencia CF
+196,Marcos André,Centre-Forward,26,"Jun 30, 2026",5500000.0,Valencia CF
+197,Edinson Cavani,Centre-Forward,35,"Jun 30, 2024",4400000.0,Valencia CF
+198,Unai Simón,Goalkeeper,25,"Jun 30, 2025",27500000.0,Athletic Bilbao
+199,Julen Agirrezabala,Goalkeeper,21,"Jun 30, 2025",5500000.0,Athletic Bilbao
+200,Iñigo Martínez,Centre-Back,31,"Jun 30, 2023",22000000.0,Athletic Bilbao
+201,Dani Vivian,Centre-Back,23,"Jun 30, 2026",16500000.0,Athletic Bilbao
+202,Yeray Álvarez,Centre-Back,27,"Jun 30, 2026",14300000.0,Athletic Bilbao
+203,Aitor Paredes,Centre-Back,22,"Jun 30, 2025",440000.0,Athletic Bilbao
+204,Yuri Berchiche,Left-Back,32,"Jun 30, 2024",3300000.0,Athletic Bilbao
+205,Mikel Balenziaga,Left-Back,34,"Jun 30, 2023",1320000.0,Athletic Bilbao
+206,Iñigo Lekue,Right-Back,29,"Jun 30, 2023",3300000.0,Athletic Bilbao
+207,Ander Capa,Right-Back,30,"Jun 30, 2024",2750000.0,Athletic Bilbao
+208,Óscar de Marcos,Right-Back,33,"Jun 30, 2023",1980000.0,Athletic Bilbao
+209,Mikel Vesga,Defensive Midfield,29,"Jun 30, 2024",3300000.0,Athletic Bilbao
+210,Unai Vencedor,Central Midfield,21,"Jun 30, 2027",22000000.0,Athletic Bilbao
+211,Ander Herrera,Central Midfield,33,"Jun 30, 2023",8800000.0,Athletic Bilbao
+212,Oier Zarraga,Central Midfield,23,"Jun 30, 2023",3850000.0,Athletic Bilbao
+213,Dani García,Central Midfield,32,"Jun 30, 2024",3300000.0,Athletic Bilbao
+214,Oihan Sancet,Attacking Midfield,22,"Jun 30, 2024",22000000.0,Athletic Bilbao
+215,Iker Muniain,Attacking Midfield,29,"Jun 30, 2024",17600000.0,Athletic Bilbao
+216,Jon Morcillo,Left Winger,24,"Jun 30, 2024",4400000.0,Athletic Bilbao
+217,Nico Williams,Right Winger,20,"Jun 30, 2024",24200000.0,Athletic Bilbao
+218,Álex Berenguer,Right Winger,27,"Jun 30, 2024",16500000.0,Athletic Bilbao
+219,Iñaki Williams,Centre-Forward,28,"Jun 30, 2028",27500000.0,Athletic Bilbao
+220,Asier Villalibre,Centre-Forward,25,"Jun 30, 2023",3300000.0,Athletic Bilbao
+221,Raúl García,Centre-Forward,36,"Jun 30, 2023",2750000.0,Athletic Bilbao
+222,Gorka Guruzeta,Centre-Forward,26,"Jun 30, 2024",2200000.0,Athletic Bilbao
+223,David Soria,Goalkeeper,29,"Jun 30, 2023",8800000.0,Getafe CF
+224,Kiko Casilla,Goalkeeper,36,"Jun 30, 2023",770000.0,Getafe CF
+225,Diego Conde,Goalkeeper,24,"Jun 30, 2024",330000.0,Getafe CF
+226,Djené,Centre-Back,30,-,8800000.0,Getafe CF
+227,Domingos Duarte,Centre-Back,27,"Jun 30, 2026",8800000.0,Getafe CF
+228,Omar Alderete,Centre-Back,25,"Jun 30, 2023",7700000.0,Getafe CF
+229,Gastón Álvarez,Centre-Back,22,"Jun 30, 2023",4400000.0,Getafe CF
+230,Stefan Mitrović,Centre-Back,32,"Jun 30, 2024",1980000.0,Getafe CF
+231,Jordan Amavi,Left-Back,28,"Jun 30, 2023",5500000.0,Getafe CF
+232,Fabrizio Angileri,Left-Back,28,"Jun 30, 2026",3300000.0,Getafe CF
+233,Juan Iglesias,Right-Back,24,"Jun 30, 2026",2750000.0,Getafe CF
+234,Damián Suárez,Right-Back,34,"Jun 30, 2023",1650000.0,Getafe CF
+235,Nemanja Maksimović,Defensive Midfield,27,"Jun 30, 2024",13200000.0,Getafe CF
+236,Mauro Arambarri,Central Midfield,27,"Jun 30, 2023",16500000.0,Getafe CF
+237,Carles Aleñá,Central Midfield,24,"Jun 30, 2026",9900000.0,Getafe CF
+238,Luis Milla,Central Midfield,28,"Jun 30, 2027",4400000.0,Getafe CF
+239,Jaime Seoane,Central Midfield,25,"Jun 30, 2025",4400000.0,Getafe CF
+240,Ángel Algobia,Central Midfield,23,"Jun 30, 2023",550000.0,Getafe CF
+241,Portu,Right Winger,30,"Jun 30, 2023",6600000.0,Getafe CF
+242,Enes Ünal,Centre-Forward,25,"Jun 30, 2025",27500000.0,Getafe CF
+243,Borja Mayoral,Centre-Forward,25,"Jun 30, 2027",9900000.0,Getafe CF
+244,Munir El Haddadi,Centre-Forward,27,"Jun 30, 2023",6600000.0,Getafe CF
+245,Jaime Mata,Centre-Forward,34,"Jun 30, 2024",3300000.0,Getafe CF
+246,Juanmi Latasa,Centre-Forward,21,"Jun 30, 2023",1100000.0,Getafe CF
+247,Agustín Marchesín,Goalkeeper,34,"Jun 30, 2025",4400000.0,Celta de Vigo
+248,Iván Villar,Goalkeeper,25,"Jun 30, 2023",1320000.0,Celta de Vigo
+249,Unai Núñez,Centre-Back,25,"Jun 30, 2023",9900000.0,Celta de Vigo
+250,Joseph Aidoo,Centre-Back,27,"Jun 30, 2026",7700000.0,Celta de Vigo
+251,Óscar Mingueza,Centre-Back,23,"Jun 30, 2026",5500000.0,Celta de Vigo
+252,Carlos Domínguez,Centre-Back,21,"Jun 30, 2026",1100000.0,Celta de Vigo
+253,Javi Galán,Left-Back,27,"Jun 30, 2026",13200000.0,Celta de Vigo
+254,Hugo Mallo,Right-Back,31,"Jun 30, 2023",4400000.0,Celta de Vigo
+255,Kevin Vázquez,Right-Back,29,"Jun 30, 2023",2200000.0,Celta de Vigo
+256,Renato Tapia,Defensive Midfield,27,"Jun 30, 2024",11000000.0,Celta de Vigo
+257,Fran Beltrán,Central Midfield,23,"Jun 30, 2026",16500000.0,Celta de Vigo
+258,Williot Swedberg,Central Midfield,18,"Jun 30, 2027",5500000.0,Celta de Vigo
+259,Luca de la Torre,Central Midfield,24,"Jun 30, 2026",2200000.0,Celta de Vigo
+260,Óscar Rodríguez,Attacking Midfield,24,"Jun 30, 2023",9900000.0,Celta de Vigo
+261,Denis Suárez,Attacking Midfield,28,"Jun 30, 2024",5500000.0,Celta de Vigo
+262,Gabri Veiga,Attacking Midfield,20,"Jun 30, 2026",3300000.0,Celta de Vigo
+263,Franco Cervi,Left Winger,28,"Jun 30, 2024",5500000.0,Celta de Vigo
+264,Carles Pérez,Right Winger,24,"Jun 30, 2023",6600000.0,Celta de Vigo
+265,Augusto Solari,Right Winger,30,"Jun 30, 2023",2750000.0,Celta de Vigo
+266,Jörgen Strand Larsen,Centre-Forward,22,"Jun 30, 2028",12100000.0,Celta de Vigo
+267,Iago Aspas,Centre-Forward,35,"Jun 30, 2025",7700000.0,Celta de Vigo
+268,Gonçalo Paciência,Centre-Forward,28,"Jun 30, 2025",3300000.0,Celta de Vigo
+269,Sergio Herrera,Goalkeeper,29,-,8800000.0,CA Osasuna
+270,Aitor Fernández,Goalkeeper,31,"Jun 30, 2025",2750000.0,CA Osasuna
+271,Juan Pérez,Goalkeeper,26,"Jun 30, 2024",660000.0,CA Osasuna
+272,David García,Centre-Back,28,"Jun 30, 2026",22000000.0,CA Osasuna
+273,Unai García,Centre-Back,30,"Jun 30, 2023",1650000.0,CA Osasuna
+274,Aridane Hernández,Centre-Back,33,"Jun 30, 2023",1650000.0,CA Osasuna
+275,Manu Sánchez,Left-Back,22,"Jun 30, 2023",11000000.0,CA Osasuna
+276,Juan Cruz,Left-Back,30,"Jun 30, 2024",2200000.0,CA Osasuna
+277,Nacho Vidal,Right-Back,27,"Jun 30, 2025",5500000.0,CA Osasuna
+278,Rubén Peña,Right-Back,31,"Jun 30, 2025",2750000.0,CA Osasuna
+279,Lucas Torró,Defensive Midfield,28,"Jun 30, 2027",5500000.0,CA Osasuna
+280,Jon Moncayola,Central Midfield,24,"Jun 30, 2031",13200000.0,CA Osasuna
+281,Darko Brasanac,Central Midfield,30,"Jun 30, 2023",2200000.0,CA Osasuna
+282,Pablo Ibáñez,Central Midfield,24,"Jun 30, 2024",440000.0,CA Osasuna
+283,Roberto Torres,Attacking Midfield,33,"Jun 30, 2023",3300000.0,CA Osasuna
+284,Aimar Oroz,Attacking Midfield,20,"Jun 30, 2026",3300000.0,CA Osasuna
+285,Ez Abde,Left Winger,20,"Jun 30, 2023",8800000.0,CA Osasuna
+286,Rubén García,Left Winger,29,"Jun 30, 2024",8800000.0,CA Osasuna
+287,Moi Gómez,Left Winger,28,"Jun 30, 2027",8800000.0,CA Osasuna
+288,Kike Saverio,Left Winger,23,"Jun 30, 2023",220000.0,CA Osasuna
+289,Kike Barja,Right Winger,25,"Jun 30, 2026",3300000.0,CA Osasuna
+290,Chimy Ávila,Centre-Forward,28,"Jun 30, 2026",11000000.0,CA Osasuna
+291,Ante Budimir,Centre-Forward,31,"Jun 30, 2025",6600000.0,CA Osasuna
+292,Kike García,Centre-Forward,32,"Jun 30, 2024",1980000.0,CA Osasuna
+293,Benjamin Lecomte,Goalkeeper,31,"Jun 30, 2023",5500000.0,RCD Espanyol Barcelona
+294,Álvaro Fernández,Goalkeeper,24,"Jun 30, 2023",4400000.0,RCD Espanyol Barcelona
+295,Joan García,Goalkeeper,21,"Jun 30, 2025",440000.0,RCD Espanyol Barcelona
+296,Leandro Cabrera,Centre-Back,31,"Jun 30, 2024",4400000.0,RCD Espanyol Barcelona
+297,Sergi Gómez,Centre-Back,30,"Jun 30, 2024",3300000.0,RCD Espanyol Barcelona
+298,Fernando Calero,Centre-Back,27,"Jun 30, 2024",1980000.0,RCD Espanyol Barcelona
+299,Adrià Pedrosa,Left-Back,24,"Jun 30, 2023",7700000.0,RCD Espanyol Barcelona
+300,Brian Oliván,Left-Back,28,"Jun 30, 2025",2750000.0,RCD Espanyol Barcelona
+301,Óscar Gil,Right-Back,24,"Jun 30, 2024",3300000.0,RCD Espanyol Barcelona
+302,Aleix Vidal,Right-Back,33,"Jun 30, 2023",2200000.0,RCD Espanyol Barcelona
+303,Vinicius Souza,Defensive Midfield,23,"Jun 30, 2023",4950000.0,RCD Espanyol Barcelona
+304,Sergi Darder,Central Midfield,28,"Jun 30, 2026",15400000.0,RCD Espanyol Barcelona
+305,Keidi Bare,Central Midfield,25,"Jun 30, 2024",4400000.0,RCD Espanyol Barcelona
+306,Edu Expósito,Central Midfield,26,"Jun 30, 2027",4400000.0,RCD Espanyol Barcelona
+307,Pol Lozano,Central Midfield,23,"Jun 30, 2023",1650000.0,RCD Espanyol Barcelona
+308,Javi Puado,Left Winger,24,"Jun 30, 2025",8800000.0,RCD Espanyol Barcelona
+309,Nico Melamed,Left Winger,21,"Jun 30, 2024",8250000.0,RCD Espanyol Barcelona
+310,José Carlos Lazo,Left Winger,26,"Jun 30, 2027",2750000.0,RCD Espanyol Barcelona
+311,Martin Braithwaite,Centre-Forward,31,"Jun 30, 2025",6600000.0,RCD Espanyol Barcelona
+312,Joselu,Centre-Forward,32,"Jun 30, 2025",5500000.0,RCD Espanyol Barcelona
+313,Dani Gómez,Centre-Forward,24,"Jun 30, 2023",2750000.0,RCD Espanyol Barcelona
+314,Paulo Gazzaniga,Goalkeeper,30,"Jun 30, 2023",2200000.0,Girona FC
+315,Juan Carlos,Goalkeeper,34,"Jun 30, 2023",330000.0,Girona FC
+316,Toni Fuidias,Goalkeeper,21,"Jun 30, 2025",330000.0,Girona FC
+317,Santiago Bueno,Centre-Back,23,"Jun 30, 2024",3300000.0,Girona FC
+318,David López,Centre-Back,33,"Jun 30, 2023",1980000.0,Girona FC
+319,Bernardo Espinosa,Centre-Back,33,"Jun 30, 2023",1650000.0,Girona FC
+320,Juanpe,Centre-Back,31,"Jun 30, 2023",1650000.0,Girona FC
+321,Miguel Gutiérrez,Left-Back,21,"Jun 30, 2027",8800000.0,Girona FC
+322,Javi Hernández,Left-Back,24,"Jun 30, 2023",2750000.0,Girona FC
+323,Arnau Martínez,Right-Back,19,"Jun 30, 2025",6600000.0,Girona FC
+324,Yan Couto,Right-Back,20,"Jun 30, 2023",5500000.0,Girona FC
+325,Oriol Romeu,Defensive Midfield,31,"Jun 30, 2025",5500000.0,Girona FC
+326,Ramón Terrats,Defensive Midfield,22,"Jun 30, 2024",1100000.0,Girona FC
+327,Ibrahima Kébé,Defensive Midfield,22,"Jun 30, 2024",660000.0,Girona FC
+328,Yangel Herrera,Central Midfield,24,"Jun 30, 2023",15400000.0,Girona FC
+329,Aleix García,Central Midfield,25,"Jun 30, 2023",4400000.0,Girona FC
+330,Reinier,Attacking Midfield,20,"Jun 30, 2023",8800000.0,Girona FC
+331,Borja García,Attacking Midfield,32,"Jun 30, 2023",1650000.0,Girona FC
+332,Iván Martín,Attacking Midfield,23,"Jun 30, 2023",880000.0,Girona FC
+333,Manu Vallejo,Left Winger,25,"Jun 30, 2025",3300000.0,Girona FC
+334,Toni Villa,Left Winger,27,"Jun 30, 2025",2750000.0,Girona FC
+335,Samu Saiz,Left Winger,31,"Jun 30, 2023",1100000.0,Girona FC
+336,Rodrigo Riquelme,Right Winger,22,"Jun 30, 2023",4400000.0,Girona FC
+337,Valery Fernández,Right Winger,22,"Jun 30, 2023",880000.0,Girona FC
+338,Taty Castellanos,Centre-Forward,24,"Jun 30, 2023",13200000.0,Girona FC
+339,Cristhian Stuani,Centre-Forward,36,"Jun 30, 2026",1650000.0,Girona FC
+340,Fernando Pacheco,Goalkeeper,30,"Jun 30, 2026",3300000.0,UD Almería
+341,Fernando Martínez,Goalkeeper,32,"Jun 30, 2023",1100000.0,UD Almería
+342,Diego Fuoli,Goalkeeper,25,"Jun 30, 2023",220000.0,UD Almería
+343,Kaiky,Centre-Back,18,"Jun 30, 2028",8800000.0,UD Almería
+344,Rodrigo Ely,Centre-Back,29,"Jun 30, 2024",3300000.0,UD Almería
+345,Srdjan Babic,Centre-Back,26,"Jun 30, 2026",3300000.0,UD Almería
+346,Chumi,Centre-Back,23,"Jun 30, 2025",2200000.0,UD Almería
+347,Iván Martos,Centre-Back,25,"Jun 30, 2024",440000.0,UD Almería
+348,Sergio Akieme,Left-Back,24,"Jun 30, 2026",5500000.0,UD Almería
+349,Álex Centelles,Left-Back,23,"Jun 30, 2026",1650000.0,UD Almería
+350,Alejandro Pozo,Right-Back,23,"Jun 30, 2027",4400000.0,UD Almería
+351,Houboulang Mendes,Right-Back,24,"Jun 30, 2026",3300000.0,UD Almería
+352,Juanjo Nieto,Right-Back,28,"Jun 30, 2023",770000.0,UD Almería
+353,Samú Costa,Defensive Midfield,21,"Jun 30, 2026",6600000.0,UD Almería
+354,Iñigo Eguaras,Defensive Midfield,30,"Jun 30, 2024",1100000.0,UD Almería
+355,Gonzalo Melero,Central Midfield,28,"Jun 30, 2026",4400000.0,UD Almería
+356,Lucas Robertone,Central Midfield,25,"Jun 30, 2025",4400000.0,UD Almería
+357,Arnau Puigmal,Central Midfield,21,"Jun 30, 2026",1650000.0,UD Almería
+358,Gui Guedes,Central Midfield,20,"Jun 30, 2028",1650000.0,UD Almería
+359,César de la Hoz,Central Midfield,30,"Jun 30, 2023",1100000.0,UD Almería
+360,Largie Ramazani,Left Winger,21,"Jun 30, 2025",11000000.0,UD Almería
+361,Lázaro,Left Winger,20,"Jun 30, 2028",7700000.0,UD Almería
+362,Adrián Embarba,Right Winger,30,"Jun 30, 2026",4400000.0,UD Almería
+363,Francisco Portillo,Right Winger,32,"Jun 30, 2023",2200000.0,UD Almería
+364,Léo Baptistão,Second Striker,30,"Jun 30, 2026",1650000.0,UD Almería
+365,El Bilal Touré,Centre-Forward,21,"Jun 30, 2028",7150000.0,UD Almería
+366,Marko Milovanovic,Centre-Forward,19,"Jun 30, 2028",1320000.0,UD Almería
+367,Dyego Sousa,Centre-Forward,33,"Jun 30, 2024",1100000.0,UD Almería
+368,Stole Dimitrievski,Goalkeeper,28,"Jun 30, 2024",4400000.0,Rayo Vallecano
+369,Miguel Ángel Morro,Goalkeeper,22,"Jun 30, 2023",660000.0,Rayo Vallecano
+370,Diego López,Goalkeeper,41,"Jun 30, 2023",550000.0,Rayo Vallecano
+371,Alejandro Catena,Centre-Back,28,"Jun 30, 2023",4400000.0,Rayo Vallecano
+372,Abdul Mumin,Centre-Back,24,"Jun 30, 2026",3300000.0,Rayo Vallecano
+373,Florian Lejeune,Centre-Back,31,"Jun 30, 2023",2200000.0,Rayo Vallecano
+374,Esteban Saveljich,Centre-Back,31,"Jun 30, 2023",880000.0,Rayo Vallecano
+375,Mario Suárez,Centre-Back,35,"Jun 30, 2023",330000.0,Rayo Vallecano
+376,Fran García,Left-Back,23,"Jun 30, 2025",8250000.0,Rayo Vallecano
+377,Pep Chavarría,Left-Back,24,"Jun 30, 2027",880000.0,Rayo Vallecano
+378,Iván Balliu,Right-Back,30,"Jun 30, 2025",2200000.0,Rayo Vallecano
+379,Mario Hernández,Right-Back,23,"Jun 30, 2023",880000.0,Rayo Vallecano
+380,Santi Comesaña,Central Midfield,26,"Jun 30, 2023",4400000.0,Rayo Vallecano
+381,Unai López,Central Midfield,27,"Jun 30, 2024",4400000.0,Rayo Vallecano
+382,Pathé Ciss,Central Midfield,28,"Jun 30, 2025",4400000.0,Rayo Vallecano
+383,Óscar Valentín,Central Midfield,28,"Jun 30, 2025",3300000.0,Rayo Vallecano
+384,Randy Nteka,Attacking Midfield,24,"Jun 30, 2026",4400000.0,Rayo Vallecano
+385,Óscar Trejo,Attacking Midfield,34,"Jun 30, 2024",3300000.0,Rayo Vallecano
+386,José Pozo,Attacking Midfield,26,"Jun 30, 2024",1320000.0,Rayo Vallecano
+387,Álvaro García,Left Winger,30,"Jun 30, 2026",6600000.0,Rayo Vallecano
+388,Bebé,Left Winger,32,"Jun 30, 2025",880000.0,Rayo Vallecano
+389,Isi Palazón,Right Winger,27,"Jun 30, 2025",5500000.0,Rayo Vallecano
+390,Salvi Sánchez,Right Winger,31,"Jun 30, 2024",2200000.0,Rayo Vallecano
+391,Raúl de Tomás,Centre-Forward,28,"Jun 30, 2027",13200000.0,Rayo Vallecano
+392,Sergio Camello,Centre-Forward,21,"Jun 30, 2023",4400000.0,Rayo Vallecano
+393,Radamel Falcao,Centre-Forward,36,"Jun 30, 2023",2200000.0,Rayo Vallecano
+394,Andrés Martín,Centre-Forward,23,"Jun 30, 2024",1320000.0,Rayo Vallecano
+395,Édgar Badía,Goalkeeper,30,"Jun 30, 2025",3300000.0,Elche CF
+396,Axel Werner,Goalkeeper,26,"Jun 30, 2023",880000.0,Elche CF
+397,Enzo Roco,Centre-Back,30,"Jun 30, 2023",2200000.0,Elche CF
+398,Diego González,Centre-Back,27,"Jun 30, 2024",2200000.0,Elche CF
+399,Federico Fernández,Centre-Back,33,"Jun 30, 2023",1650000.0,Elche CF
+400,Pedro Bigas,Centre-Back,32,"Jun 30, 2023",1100000.0,Elche CF
+401,Gonzalo Verdú,Centre-Back,34,"Jun 30, 2023",770000.0,Elche CF
+402,John Nwankwo,Centre-Back,22,"Jun 30, 2025",440000.0,Elche CF
+403,Nicolás Fernández Mercau,Left-Back,22,"Jun 30, 2027",2750000.0,Elche CF
+404,Carlos Clerc,Left-Back,30,"Jun 30, 2024",2200000.0,Elche CF
+405,Pol Lirola,Right-Back,25,"Jun 30, 2023",6600000.0,Elche CF
+406,Helibelton Palacios,Right-Back,29,"Jun 30, 2023",1320000.0,Elche CF
+407,Omar Mascarell,Defensive Midfield,29,"Jun 30, 2025",4400000.0,Elche CF
+408,Gerard Gumbau,Defensive Midfield,27,"Jun 30, 2023",3300000.0,Elche CF
+409,Raúl Guti,Central Midfield,25,"Jun 30, 2025",4400000.0,Elche CF
+410,Domingos Quina,Central Midfield,22,"Jun 30, 2023",2420000.0,Elche CF
+411,Javier Pastore,Attacking Midfield,33,"Jun 30, 2023",990000.0,Elche CF
+412,Pere Milla,Left Winger,30,"Jun 30, 2025",3300000.0,Elche CF
+413,Tete Morente,Left Winger,25,"Jun 30, 2024",3300000.0,Elche CF
+414,Fidel,Left Winger,33,"Jun 30, 2024",2200000.0,Elche CF
+415,Álex Collado,Right Winger,23,"Jun 30, 2023",5500000.0,Elche CF
+416,Josan,Right Winger,32,"Jun 30, 2023",1100000.0,Elche CF
+417,Lucas Boyé,Centre-Forward,26,"Jun 30, 2024",13200000.0,Elche CF
+418,Ezequiel Ponce,Centre-Forward,25,"Jun 30, 2026",5500000.0,Elche CF
+419,Roger Martí,Centre-Forward,31,"Jun 30, 2026",4400000.0,Elche CF
+420,Predrag Rajković,Goalkeeper,27,"Jun 30, 2026",9900000.0,RCD Mallorca
+421,Dominik Greif,Goalkeeper,25,"Jun 30, 2026",2200000.0,RCD Mallorca
+422,Leo Román,Goalkeeper,22,"Jun 30, 2026",330000.0,RCD Mallorca
+423,Martin Valjent,Centre-Back,26,"Jun 30, 2025",4400000.0,RCD Mallorca
+424,Antonio Raíllo,Centre-Back,31,"Jun 30, 2024",2200000.0,RCD Mallorca
+425,Matija Nastasić,Centre-Back,29,"Jun 30, 2023",1650000.0,RCD Mallorca
+426,Franco Russo,Centre-Back,28,"Jun 30, 2024",1320000.0,RCD Mallorca
+427,José Copete,Centre-Back,23,"Jun 30, 2026",1320000.0,RCD Mallorca
+428,Braian Cufré,Left-Back,25,"Jun 30, 2024",1320000.0,RCD Mallorca
+429,Jaume Costa,Left-Back,34,"Jun 30, 2023",1320000.0,RCD Mallorca
+430,Pablo Maffeo,Right-Back,25,"Jun 30, 2026",5500000.0,RCD Mallorca
+431,Giovanni González,Right-Back,28,"Jun 30, 2024",1650000.0,RCD Mallorca
+432,Rodrigo Battaglia,Defensive Midfield,31,"Jun 30, 2024",1980000.0,RCD Mallorca
+433,Iddrisu Baba,Central Midfield,26,"Jun 30, 2024",3850000.0,RCD Mallorca
+434,Iñigo Ruiz de Galarreta,Central Midfield,29,"Jun 30, 2023",1980000.0,RCD Mallorca
+435,Antonio Sánchez,Central Midfield,25,"Jun 30, 2024",1650000.0,RCD Mallorca
+436,Clément Grenier,Central Midfield,31,"Jun 30, 2024",1100000.0,RCD Mallorca
+437,Kang-in Lee,Attacking Midfield,21,"Jun 30, 2025",9900000.0,RCD Mallorca
+438,Dani Rodríguez,Attacking Midfield,34,"Jun 30, 2024",1320000.0,RCD Mallorca
+439,Amath Ndiaye,Left Winger,26,"Jun 30, 2025",2200000.0,RCD Mallorca
+440,Lago Júnior,Left Winger,31,"Jun 30, 2023",1320000.0,RCD Mallorca
+441,Vedat Muriqi,Centre-Forward,28,"Jun 30, 2027",9900000.0,RCD Mallorca
+442,Tino Kadewere,Centre-Forward,26,"Jun 30, 2023",6600000.0,RCD Mallorca
+443,Ángel Rodríguez,Centre-Forward,35,"Jun 30, 2023",2200000.0,RCD Mallorca
+444,Abdón Prats,Centre-Forward,29,"Jun 30, 2024",1650000.0,RCD Mallorca
+445,Sergio Asenjo,Goalkeeper,33,"Jun 30, 2024",4400000.0,Real Valladolid CF
+446,Jordi Masip,Goalkeeper,33,"Jun 30, 2024",770000.0,Real Valladolid CF
+447,Joaquín Fernández,Centre-Back,26,"Jun 30, 2023",3080000.0,Real Valladolid CF
+448,Zouhair Feddal,Centre-Back,32,"Jun 30, 2023",2750000.0,Real Valladolid CF
+449,Javi Sánchez,Centre-Back,25,"Jun 30, 2026",2750000.0,Real Valladolid CF
+450,Jawad El Yamiq,Centre-Back,30,"Jun 30, 2024",1320000.0,Real Valladolid CF
+451,Lucas Olaza,Left-Back,28,"Jun 30, 2025",2750000.0,Real Valladolid CF
+452,Sergio Escudero,Left-Back,33,"Jun 30, 2024",1980000.0,Real Valladolid CF
+453,Luis Pérez,Right-Back,27,"Jun 30, 2025",1650000.0,Real Valladolid CF
+454,Iván Fresneda,Right-Back,18,"Jun 30, 2025",1100000.0,Real Valladolid CF
+455,Lucas Rosa,Right-Back,22,"Jun 30, 2025",165000.0,Real Valladolid CF
+456,Mickaël Malsa,Defensive Midfield,26,"Jun 30, 2026",3300000.0,Real Valladolid CF
+457,Monchu,Central Midfield,23,"Jun 30, 2026",3300000.0,Real Valladolid CF
+458,Kike Pérez,Central Midfield,25,"Jun 30, 2025",2750000.0,Real Valladolid CF
+459,Álvaro Aguado,Central Midfield,26,"Jun 30, 2023",2750000.0,Real Valladolid CF
+460,Roque Mesa,Central Midfield,33,"Jun 30, 2023",2750000.0,Real Valladolid CF
+461,Anuar,Central Midfield,27,"Jun 30, 2023",1100000.0,Real Valladolid CF
+462,Kenedy,Left Winger,26,"Jun 30, 2027",7700000.0,Real Valladolid CF
+463,Gonzalo Plata,Right Winger,22,"Jun 30, 2027",6600000.0,Real Valladolid CF
+464,Óscar Plano,Right Winger,31,"Jun 30, 2023",2750000.0,Real Valladolid CF
+465,Iván Sánchez,Right Winger,30,"Jun 30, 2024",880000.0,Real Valladolid CF
+466,Shon Weissman,Centre-Forward,26,"Jun 30, 2024",8800000.0,Real Valladolid CF
+467,Sergi Guardiola,Centre-Forward,31,"Jun 30, 2023",3300000.0,Real Valladolid CF
+468,Juanjo Narváez,Centre-Forward,27,"Jun 30, 2025",1650000.0,Real Valladolid CF
+469,Sergio León,Centre-Forward,33,"Jun 30, 2024",1320000.0,Real Valladolid CF
+470,Jeremías Ledesma,Goalkeeper,29,"Jun 30, 2025",6600000.0,Cádiz CF
+471,David Gil,Goalkeeper,28,"Jun 30, 2025",880000.0,Cádiz CF
+472,Fali,Centre-Back,29,"Jun 30, 2024",2750000.0,Cádiz CF
+473,Víctor Chust,Centre-Back,22,"Jun 30, 2026",2750000.0,Cádiz CF
+474,Juan Cala,Centre-Back,32,"Jun 30, 2024",990000.0,Cádiz CF
+475,Luis Hernández,Centre-Back,33,"Jun 30, 2023",880000.0,Cádiz CF
+476,Momo Mbaye,Centre-Back,24,"Jun 30, 2024",440000.0,Cádiz CF
+477,Alfonso Espino,Left-Back,30,"Jun 30, 2023",5500000.0,Cádiz CF
+478,Santiago Arzamendia,Left-Back,24,"Jun 30, 2025",1980000.0,Cádiz CF
+479,Joseba Zaldua,Right-Back,30,"Jun 30, 2025",4400000.0,Cádiz CF
+480,Iza Carcelén,Right-Back,29,"Jun 30, 2023",1650000.0,Cádiz CF
+481,Antonio Blanco,Defensive Midfield,22,"Jun 30, 2023",5500000.0,Cádiz CF
+482,Tomás Alarcón,Defensive Midfield,23,"Jun 30, 2025",3300000.0,Cádiz CF
+483,Jon Ander Garrido,Defensive Midfield,33,"Jun 30, 2023",440000.0,Cádiz CF
+484,José Mari,Defensive Midfield,34,"Jun 30, 2024",440000.0,Cádiz CF
+485,Rubén Alcaraz,Central Midfield,31,"Jun 30, 2024",2750000.0,Cádiz CF
+486,Fede San Emeterio,Central Midfield,25,"Jun 30, 2026",1650000.0,Cádiz CF
+487,Álex Fernández,Attacking Midfield,30,"Jun 30, 2025",5500000.0,Cádiz CF
+488,Théo Bongonda,Left Winger,26,"Jun 30, 2026",6600000.0,Cádiz CF
+489,Awer Mabil,Left Winger,27,"Jun 30, 2026",1980000.0,Cádiz CF
+490,Brian Ocampo,Right Winger,23,"Jun 30, 2026",2200000.0,Cádiz CF
+491,Iván Alejo,Right Winger,27,"Jun 30, 2025",1320000.0,Cádiz CF
+492,Choco Lozano,Centre-Forward,29,"Jun 30, 2023",3300000.0,Cádiz CF
+493,Lucas Pérez,Centre-Forward,34,"Jun 30, 2023",2750000.0,Cádiz CF
+494,Rubén Sobrino,Centre-Forward,30,"Jun 30, 2024",2200000.0,Cádiz CF
+495,Álvaro Negredo,Centre-Forward,37,"Jun 30, 2023",1650000.0,Cádiz CF
+496,Álvaro Giménez,Centre-Forward,31,"Jun 30, 2023",1100000.0,Cádiz CF
