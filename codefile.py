@@ -1,5 +1,5 @@
 """
-This file contains only the code from codefile.ipynb.
+This file contains only the code from codefile.ipynb, bar the sanity checks.
 The file contains all the python and SQLite code to complete this project.
 All SQLite code is run on objects instantiated from the `sqlite3` module.
 
@@ -303,5 +303,10 @@ if __name__ == "__main__":
 
   # saving the results as a CSV file for future manipulation
   qry_df.to_csv("query_results.csv")
+  # storing all the tables as csvs
+  pd.read_sql_query("SELECT * FROM Clubs", con=conn).to_csv("clubs.csv")
+  pd.read_sql_query("SELECT * FROM Position_Map", con=conn).to_csv("position_map.csv")
+  pd.read_sql_query("SELECT * FROM Players", con=conn).to_csv("players.csv")
+
   # to close connection
   conn.close()
